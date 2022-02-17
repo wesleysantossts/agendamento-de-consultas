@@ -2,8 +2,8 @@
 
 Sistema de agendamento de consultas com notificação por e-mail desenvolvido em NodeJS, Express, MongoDB e Bootstrap.
 
-<div align="center" width="300px">
-  <img src="./public/assets/img/GifProjeto.gif"/><br/>
+<div align="center">
+  <img src="./public/assets/img/GifProjeto.gif" width="400px"/><br/>
   <sub>Imagem 1: Projeto</sub>
 </div>
 
@@ -24,8 +24,8 @@ Sistema de agendamento de consultas com notificação por e-mail desenvolvido em
 
 Consta um calendário desenvolvido com a biblioteca FullCalendar que indica as consultas já cadastradas no banco de dados.
 
-<div align="center" width="300px">
-  <img src="./public/assets/img/Pginicial.jpg"/><br/>
+<div align="center">
+  <img src="./public/assets/img/Pginicial.jpg" width="400px"/><br/>
   <sub>Imagem 2: Página Início</sub>
 </div>
 
@@ -42,8 +42,8 @@ Nela é possível inserir os seguintes dados dos pacientes para cadastrá-los no
 - Data da consulta;
 - Horário da consulta.
 
-<div align="center" width="300px">
-  <img src="./public/assets/img/Pgcadastro.jpg"/><br/>
+<div align="center">
+  <img src="./public/assets/img/Pgcadastro.jpg" width="400px"/><br/>
   <sub>Imagem 3: Página Cadastro</sub>
 </div>
 
@@ -62,8 +62,8 @@ Aqui aparecerá na tela as seguintes informações dos clientes:
 
 Após essas informações aparece o botão "Finalizar consulta". Se clicado, a consulta não aparecerá mais no calendário na tela inicial. 
 
-<div align="center" width="300px">
-  <img src="./public/assets/img/Pgdetalhes.jpg"/><br/>
+<div align="center">
+  <img src="./public/assets/img/Pgdetalhes.jpg" width="400px"/><br/>
   <sub>Imagem 4: Página Detalhes</sub>
 </div>
 
@@ -71,8 +71,8 @@ Após essas informações aparece o botão "Finalizar consulta". Se clicado, a c
 
 Nesta página é possível vizualizar todas as consultas disponíveis no banco de dados e pesquisar consultas pelo e-mail ou nome do paciente.
 
-<div align="center" width="300px">
-  <img src="./public/assets/img/Pgconsultas.jpg"/><br/>
+<div align="center">
+  <img src="./public/assets/img/Pgconsultas.jpg" width="400px"/><br/>
   <sub>Imagem 5: Página Consultas</sub>
 </div>
 
