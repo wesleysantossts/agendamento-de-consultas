@@ -1,6 +1,6 @@
 # Agendamento de Consultas
 
-Sistema de agendamento de consultas com notificação por e-mail desenvolvido em NodeJS, Express, MongoDB e Bootstrap.
+Sistema de agendamento de consultas com notificação por e-mail desenvolvido em NodeJS, Express, EJS, MongoDB e Bootstrap.
 
 <div align="center">
   <img src="./public/assets/img/GifProjeto.gif" width="400px"/><br/>
@@ -82,4 +82,3 @@ Nesta página é possível vizualizar todas as consultas disponíveis no banco d
 - [x] FullCalendar
 - [x] JQuery Mask
 - [x] Nodemailer
-
