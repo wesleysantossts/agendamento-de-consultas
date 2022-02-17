@@ -76,7 +76,7 @@ Nesta página é possível vizualizar todas as consultas disponíveis no banco d
   <sub>Imagem 5: Página Consultas</sub>
 </div>
 
-### Bibliotecas
+## Bibliotecas
 
 - [x] Express
 - [x] FullCalendar
