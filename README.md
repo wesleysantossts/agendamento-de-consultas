@@ -3,7 +3,7 @@
 Sistema de agendamento de consultas com notificação por e-mail desenvolvido em NodeJS, Express, MongoDB e Bootstrap.
 
 <div align="center" width="300px">
-  <img src="./public/assets/img/GifProjeto.gif"/>
+  <img src="./public/assets/img/GifProjeto.gif"/><br/>
   <sub>Imagem 1: Projeto</sub>
 </div>
 
@@ -14,7 +14,7 @@ Sistema de agendamento de consultas com notificação por e-mail desenvolvido em
   <ul>
     <li>Clone o repositório na sua máquina</li>
     <li>Na pasta Service > AppointmentService, no método "SendNotification" na constante "transport" insira as configurações do seu e-mail de testes.</li>
-    <li>Depois, no CMD, digite o comando `node index` para iniciar a aplicação na rota `localhost:8080` </li>
+    <li>Depois, no CMD, digite o comando <code>node index</code> para iniciar a aplicação na rota <code>localhost:8080</code> </li>
   </ul>
 </details>
 
@@ -23,6 +23,11 @@ Sistema de agendamento de consultas com notificação por e-mail desenvolvido em
 ### Home
 
 Consta um calendário desenvolvido com a biblioteca FullCalendar que indica as consultas já cadastradas no banco de dados.
+
+<div align="center" width="300px">
+  <img src="./public/assets/img/Pginicial.jpg"/><br/>
+  <sub>Imagem 2: Página Início</sub>
+</div>
 
 À partir dessa página é possível entrar nas consultas para visualizar detalhes delas e finalizá-las.
 
@@ -36,6 +41,11 @@ Nela é possível inserir os seguintes dados dos pacientes para cadastrá-los no
 - Descrição;
 - Data da consulta;
 - Horário da consulta.
+
+<div align="center" width="300px">
+  <img src="./public/assets/img/Pgcadastro.jpg"/><br/>
+  <sub>Imagem 3: Página Cadastro</sub>
+</div>
 
 Observação: quando restar 1 hora para o cliente realizar a consulta, ele será notificado por e-email. 
 
@@ -52,9 +62,19 @@ Aqui aparecerá na tela as seguintes informações dos clientes:
 
 Após essas informações aparece o botão "Finalizar consulta". Se clicado, a consulta não aparecerá mais no calendário na tela inicial. 
 
+<div align="center" width="300px">
+  <img src="./public/assets/img/Pgdetalhes.jpg"/><br/>
+  <sub>Imagem 4: Página Detalhes</sub>
+</div>
+
 ### Consultas
 
 Nesta página é possível vizualizar todas as consultas disponíveis no banco de dados e pesquisar consultas pelo e-mail ou nome do paciente.
+
+<div align="center" width="300px">
+  <img src="./public/assets/img/Pgconsultas.jpg"/><br/>
+  <sub>Imagem 5: Página Consultas</sub>
+</div>
 
 ### Bibliotecas
 
