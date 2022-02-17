@@ -14,8 +14,7 @@ Sistema de agendamento de consultas com notificação por e-mail desenvolvido em
   <ul>
     <li>Clone o repositório na sua máquina</li>
     <li>Na pasta Service > AppointmentService, no método "SendNotification" na constante "transport" insira as configurações do seu e-mail de testes.</li>
-    <li>Depois, no CMD, digite o comando ``node index`` para iniciar a aplicação na rota ``localhost:8080`` </li>
-    <li></li>
+    <li>Depois, no CMD, digite o comando `node index` para iniciar a aplicação na rota `localhost:8080` </li>
   </ul>
 </details>
 
