@@ -59,8 +59,8 @@ Nesta página é possível vizualizar todas as consultas disponíveis no banco d
 
 ### Bibliotecas
 
-- [ ] Express
-- [ ] FullCalendar
-- [ ] JQuery Mask
-- [ ] Nodemailer
+- [x] Express
+- [x] FullCalendar
+- [x] JQuery Mask
+- [x] Nodemailer
 
